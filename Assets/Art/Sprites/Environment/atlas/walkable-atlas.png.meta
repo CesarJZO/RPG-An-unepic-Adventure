@@ -1880,6 +1880,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: walkable-atlas_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 21
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024af88cea5f674fbc674ac9cf2b4c4
+      internalID: -822679709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkable-atlas_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 21
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be3ab7cf49f3a4b981c6316c405bd5
+      internalID: -1338641263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkable-atlas_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 21
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099cf085d65cf144bc1d1a7d3d82cf3
+      internalID: 1200395469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1892,10 +1955,12 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       walkable-atlas_1: 883473691198831953
+      walkable-atlas_59: 1200395469
       walkable-atlas_38: -6078067975330936634
       walkable-atlas_48: -3298045648328501722
       walkable-atlas_16: -2148694055812167310
       walkable-atlas_9: 2025822298766033166
+      walkable-atlas_58: -1338641263
       walkable-atlas_2: -203251546883708495
       walkable-atlas_20: 2232489095506647308
       walkable-atlas_24: -3031801474441947568
@@ -1921,6 +1986,7 @@ TextureImporter:
       walkable-atlas_36: 3390451627690854242
       walkable-atlas_40: -8850973872203168285
       walkable-atlas_19: 5456151992776776437
+      walkable-atlas_57: -822679709
       walkable-atlas_31: -5271587579618779644
       walkable-atlas_22: 599286406920928944
       walkable-atlas_30: -6247621597262863949
